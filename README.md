@@ -38,7 +38,6 @@ This project demonstrates the use of ViT for detecting deep fake images. The mod
 - `app.py`: Main Streamlit app code.
 - `model.py`: Code for loading and using the ViT model.
 - `requirements.txt`: List of required Python packages.
-- `vit_finetuned_cifar10.pth`: Fine-tuned ViT model file (ensure this is in the directory).
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, and file issues if you encounter any problems.
