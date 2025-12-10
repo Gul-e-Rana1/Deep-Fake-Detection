@@ -36,7 +36,6 @@ This project demonstrates the use of ViT for detecting deep fake images. The mod
 
 ## Project Structure
 - `app.py`: Main Streamlit app code.
-- `model.py`: Code for loading and using the ViT model.
 - `requirements.txt`: List of required Python packages.
 
 ## Contributing
